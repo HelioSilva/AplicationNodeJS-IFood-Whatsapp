@@ -1,0 +1,38 @@
+O que é WebScraping? 
+
+A coleta de dados web, ou raspagem web, é uma forma de mineração que permite a extração de 
+dados de sites da web convertendo-os em informação estruturada para posterior análise. 
+O tipo mais básico de coleta é o download manual das páginas, copiando e colando o conteúdo, 
+e isso pode ser feito por qualquer pessoa.
+
+Exemplo :     
+
+<article class='materias'>
+    <div class='titulo'>O que é Webscraping?</div>
+    <div id='autor'>Fulano de tal</div>
+    <div class='texto'>Texto sobre o que é WebScraping</div>
+</article>
+
+
+Usando Javascript podemos acessar seletores e capturar a informação :
+ - document.querySelector('.titulo')
+ - document.querySelectorAll(<Seletor>)
+
+    Obs: Para acessar as propiedades do texto usamos: 
+        - innerText
+        - innerHTML
+        - textContent
+
+{
+    nome: "nome restaurante",
+    link : "http://iuieouieu",
+    rating : 5.0,
+    img : "http://kasjdkja"
+}
+
+{
+    descricao: "",
+    preco : 10,
+    precoDesconto : 5 ,
+    porcentagem : 50
+}

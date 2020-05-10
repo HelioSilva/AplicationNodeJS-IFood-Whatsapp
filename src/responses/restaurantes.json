@@ -1,0 +1,431 @@
+[
+  {
+    "nome": "Açaí Concept - Maceió Shopping",
+    "link": "https://www.ifood.com.br/delivery/maceio-al/acai-concept---maceio-shopping-mangabeiras/5933ab4e-50f1-433d-8fa2-ba2066e57b3a",
+    "rating": "-",
+    "img": "https://static-images.ifood.com.br/image/upload/f_auto,t_thumbnail/logosgde/202003021216_5933ab4e-50f1-433d-8fa2-ba2066e57b3a.jpg",
+    "produtos": [
+      {
+        "descricao": "300ml de açaí, granola tradicional e banana",
+        "preco": "15.90",
+        "precoDesconto": "8.90",
+        "porcentagem": "44.03"
+      },
+      {
+        "descricao": "Açaí tradicional 500ml + granola + paçoca + banana",
+        "preco": "19.90",
+        "precoDesconto": "13.90",
+        "porcentagem": "30.15"
+      }
+    ]
+  },
+  {
+    "nome": "Açaí Concept - Extra Mangabeiras",
+    "link": "https://www.ifood.com.br/delivery/maceio-al/acai-concept---extra-mangabeiras-mangabeiras/19d04713-b431-4db8-b49f-dc9724a1dd0c",
+    "rating": "5.0",
+    "img": "https://static-images.ifood.com.br/image/upload/f_auto,t_thumbnail/logosgde/494e236f-b3ed-42ca-93f6-970e33dab9af_ACAIC_EIRA02.png",
+    "produtos": []
+  },
+  {
+    "nome": "Açaí Concept - Jacintinho",
+    "link": "https://www.ifood.com.br/delivery/maceio-al/acai-concept---jacintinho-jacintinho/e268ccc2-372a-4ad8-a285-a9a43be88767",
+    "rating": "4.8",
+    "img": "https://static-images.ifood.com.br/image/upload/f_auto,t_thumbnail/logosgde/e268ccc2-372a-4ad8-a285-a9a43be88767/201911261735_sFMA_.jpeg",
+    "produtos": [
+      {
+        "descricao": "Combo - leve 3 pague 2",
+        "preco": "71.70",
+        "precoDesconto": "47.90",
+        "porcentagem": "33.19"
+      },
+      {
+        "descricao": "Combo serve 2 - copo 500ml açaí tradicional com 50% desconto no segundo copo igual",
+        "preco": "47.80",
+        "precoDesconto": "35.90",
+        "porcentagem": "24.90"
+      }
+    ]
+  },
+  {
+    "nome": "Açai Concept - Bomba do Gonzaga",
+    "link": "https://www.ifood.com.br/delivery/maceio-al/acai-concept---bomba-do-gonzaga-clima-bom/6187a5f1-5f87-4366-9135-c3318e3c9fc9",
+    "rating": "4.8",
+    "img": "https://static-images.ifood.com.br/image/upload/f_auto,t_thumbnail/logosgde/6187a5f1-5f87-4366-9135-c3318e3c9fc9/201909181518_DiAq_.jpeg",
+    "produtos": [
+      {
+        "descricao": "Deu match voltou - 300ml de açaí tradicional + banana",
+        "preco": "17.90",
+        "precoDesconto": "9.90",
+        "porcentagem": "44.69"
+      },
+      {
+        "descricao": "Açaí tradicional 500ml 30%off",
+        "preco": "23.90",
+        "precoDesconto": "16.90",
+        "porcentagem": "29.29"
+      },
+      {
+        "descricao": "Combo serve 2 - copo 500ml açaí tradicional com 50% desconto no segundo copo igual",
+        "preco": "47.80",
+        "precoDesconto": "35.90",
+        "porcentagem": "24.90"
+      },
+      {
+        "descricao": "Açaí tradicional 710ml com morango, banana e leite condensado!",
+        "preco": "35.90",
+        "precoDesconto": "28.90",
+        "porcentagem": "19.50"
+      }
+    ]
+  },
+  {
+    "nome": "Ponto do Açaí",
+    "link": "https://www.ifood.com.br/delivery/maceio-al/ponto-do-acai-jatiuca/cdd57167-ad8a-49fd-8755-744132293b4d",
+    "rating": "4.8",
+    "img": "https://static-images.ifood.com.br/image/upload/f_auto,t_thumbnail/logosgde/cdd57167-ad8a-49fd-8755-744132293b4d/202001281749_Hz9o_i.png",
+    "produtos": [
+      {
+        "descricao": "Suco de kiwi 500ml",
+        "preco": "15.60",
+        "precoDesconto": "7.99",
+        "porcentagem": "48.78"
+      },
+      {
+        "descricao": "Smoothie Banana e kiwi",
+        "preco": "22.70",
+        "precoDesconto": "12.99",
+        "porcentagem": "42.78"
+      }
+    ]
+  },
+  {
+    "nome": "Açaí Concept - Parte Alta",
+    "link": "https://www.ifood.com.br/delivery/maceio-al/acai-concept---parte-alta-serraria/029a5604-a166-4604-8bb5-a8fecd305a62",
+    "rating": "4.8",
+    "img": "https://static-images.ifood.com.br/image/upload/f_auto,t_thumbnail/logosgde/201907311346_029a5604-a166-4604-8bb5-a8fecd305a62.png",
+    "produtos": []
+  },
+  {
+    "nome": "Açai Concept - Mário de Gusmão",
+    "link": "https://www.ifood.com.br/delivery/maceio-al/acai-concept---mario-de-gusmao-ponta-verde/1b25ef75-a631-48a2-a38c-d3367f457981",
+    "rating": "4.7",
+    "img": "https://static-images.ifood.com.br/image/upload/f_auto,t_thumbnail/logosgde/6cd62c43-7111-4c7f-a346-055842582990_ACAIC_USMAO.jpeg",
+    "produtos": [
+      {
+        "descricao": "Deu match voltou - 300ml de açaí tradicional + banana",
+        "preco": "17.90",
+        "precoDesconto": "9.90",
+        "porcentagem": "44.69"
+      },
+      {
+        "descricao": "Combo - leve 3 pague 2",
+        "preco": "71.70",
+        "precoDesconto": "47.90",
+        "porcentagem": "33.19"
+      },
+      {
+        "descricao": "Açaí tradicional 500ml 30%off",
+        "preco": "23.90",
+        "precoDesconto": "16.90",
+        "porcentagem": "29.29"
+      },
+      {
+        "descricao": "Combo família - 3 copos de 500ml + smoothie de açaí no mesmo tamanho",
+        "preco": "91.60",
+        "precoDesconto": "64.90",
+        "porcentagem": "29.15"
+      }
+    ]
+  },
+  {
+    "nome": "Açaí Concept - Food Truck Unimed",
+    "link": "https://www.ifood.com.br/delivery/maceio-al/acai-concept---food-truck-unimed-farol/7b04befd-774a-4578-bf9e-6ab9806003bb",
+    "rating": "4.7",
+    "img": "https://static-images.ifood.com.br/image/upload/f_auto,t_thumbnail/logosgde/7b04befd-774a-4578-bf9e-6ab9806003bb/202003061422_cWHx_.jpeg",
+    "produtos": [
+      {
+        "descricao": "Combo serve 2 - copo 500ml açaí tradicional com 50% desconto no segundo copo igual",
+        "preco": "47.80",
+        "precoDesconto": "35.90",
+        "porcentagem": "24.90"
+      },
+      {
+        "descricao": "Pós-treino (ganhe adicional whey)",
+        "preco": "27.90",
+        "precoDesconto": "23.90",
+        "porcentagem": "14.34"
+      }
+    ]
+  },
+  {
+    "nome": "Açaí Concept Fernandes Lima",
+    "link": "https://www.ifood.com.br/delivery/maceio-al/acai-concept-fernandes-lima-farol/0d7be5c4-3f09-455d-8f35-ed7de9e73cc4",
+    "rating": "4.7",
+    "img": "https://static-images.ifood.com.br/image/upload/f_auto,t_thumbnail/logosgde/201907311327_0d7be5c4-3f09-455d-8f35-ed7de9e73cc4.png",
+    "produtos": [
+      {
+        "descricao": "Açaí tradicional 500ml 30%off",
+        "preco": "23.90",
+        "precoDesconto": "16.90",
+        "porcentagem": "29.29"
+      },
+      {
+        "descricao": "Açaí tradicional 500ml + creme de paçoca 30%off",
+        "preco": "23.90",
+        "precoDesconto": "16.90",
+        "porcentagem": "29.29"
+      }
+    ]
+  },
+  {
+    "nome": "Açai Concept - Pajuçara",
+    "link": "https://www.ifood.com.br/delivery/maceio-al/acai-concept---pajucara-pajucara/d5d0c9e4-1beb-42e0-a2ff-01e17ee9aaf4",
+    "rating": "4.7",
+    "img": "https://static-images.ifood.com.br/image/upload/f_auto,t_thumbnail/logosgde/201907311332_d5d0c9e4-1beb-42e0-a2ff-01e17ee9aaf4.png",
+    "produtos": [
+      {
+        "descricao": "Deu Match voltou - 300ml de açaí tradicional + banana",
+        "preco": "17.90",
+        "precoDesconto": "9.90",
+        "porcentagem": "44.69"
+      },
+      {
+        "descricao": "Combo - Leve 3 Pague 2",
+        "preco": "71.70",
+        "precoDesconto": "47.90",
+        "porcentagem": "33.19"
+      },
+      {
+        "descricao": "Açaí tradicional 500ml 30%off",
+        "preco": "23.90",
+        "precoDesconto": "16.90",
+        "porcentagem": "29.29"
+      },
+      {
+        "descricao": "Açaí tradicional 500ml + creme de paçoca 30%off",
+        "preco": "23.90",
+        "precoDesconto": "16.90",
+        "porcentagem": "29.29"
+      }
+    ]
+  },
+  {
+    "nome": "Açaí Concept - Álvaro Calheiros",
+    "link": "https://www.ifood.com.br/delivery/maceio-al/acai-concept---alvaro-calheiros-jatiuca/7fbf4b9e-a6c6-4bf3-96c7-e3544e390604",
+    "rating": "4.6",
+    "img": "https://static-images.ifood.com.br/image/upload/f_auto,t_thumbnail/logosgde/7fbf4b9e-a6c6-4bf3-96c7-e3544e390604/201912111250_ur0m_.jpeg",
+    "produtos": [
+      {
+        "descricao": "Açaí tradicional 500ml 30%off",
+        "preco": "23.90",
+        "precoDesconto": "16.90",
+        "porcentagem": "29.29"
+      },
+      {
+        "descricao": "Combo serve 2 - copo 500ml açaí tradicional com 50% desconto no segundo copo igual",
+        "preco": "47.80",
+        "precoDesconto": "35.90",
+        "porcentagem": "24.90"
+      }
+    ]
+  },
+  {
+    "nome": "Açai Concept - Unicompra",
+    "link": "https://www.ifood.com.br/delivery/maceio-al/acai-concept---unicompra-ponta-verde/aa061b3b-028b-46d1-9d15-7528b7d1bec1",
+    "rating": "4.6",
+    "img": "https://static-images.ifood.com.br/image/upload/f_auto,t_thumbnail/logosgde/aa061b3b-028b-46d1-9d15-7528b7d1bec1/202003051734_LZx8_.jpeg",
+    "produtos": [
+      {
+        "descricao": "Combo - leve 3 pague 2",
+        "preco": "71.70",
+        "precoDesconto": "47.90",
+        "porcentagem": "33.19"
+      },
+      {
+        "descricao": "Açaí tradicional 500ml + granola + paçoca + banana",
+        "preco": "23.90",
+        "precoDesconto": "16.90",
+        "porcentagem": "29.29"
+      },
+      {
+        "descricao": "Açaí tradicional 500ml 30%off",
+        "preco": "23.90",
+        "precoDesconto": "16.90",
+        "porcentagem": "29.29"
+      },
+      {
+        "descricao": "Açaí tradicional 500ml + creme de paçoca 30%off",
+        "preco": "23.90",
+        "precoDesconto": "16.90",
+        "porcentagem": "29.29"
+      }
+    ]
+  },
+  {
+    "nome": "Habib's - Jatiuca",
+    "link": "https://www.ifood.com.br/delivery/maceio-al/habib's---jatiuca-jatiuca/a495abc2-4f54-430a-8ae5-8c6aa22d306a",
+    "rating": "3.5",
+    "img": "https://static-images.ifood.com.br/image/upload/f_auto,t_thumbnail/logosgde/201801240958_a495abc2-4f54-430a-8ae5-8c6aa22d306a.jpg",
+    "produtos": [
+      {
+        "descricao": "Monte seu combo 2",
+        "preco": "56.70",
+        "precoDesconto": "29.90",
+        "porcentagem": "47.27"
+      },
+      {
+        "descricao": "Monte seu combo 4",
+        "preco": "81.40",
+        "precoDesconto": "49.90",
+        "porcentagem": "38.70"
+      },
+      {
+        "descricao": "Filé de frango a milanesa com fritas e arroz",
+        "preco": "28.40",
+        "precoDesconto": "19.90",
+        "porcentagem": "29.93"
+      },
+      {
+        "descricao": "Combo beirute + fritas g + bebida 300 ml",
+        "preco": "43.30",
+        "precoDesconto": "31.80",
+        "porcentagem": "26.56"
+      }
+    ]
+  },
+  {
+    "nome": "Açaí Concept - Drive Thru",
+    "link": "https://www.ifood.com.br/delivery/maceio-al/acai-concept---drive-thru-antares/4751c6ae-bf2d-4a0b-a6e6-197abcc34088",
+    "rating": "4.4",
+    "img": "https://static-images.ifood.com.br/image/upload/f_auto,t_thumbnail/logosgde/201907311344_4751c6ae-bf2d-4a0b-a6e6-197abcc34088.png",
+    "produtos": [
+      {
+        "descricao": "Deu match voltou - 300ml de açaí tradicional + banana",
+        "preco": "17.90",
+        "precoDesconto": "9.90",
+        "porcentagem": "44.69"
+      },
+      {
+        "descricao": "Combo - leve 3 pague 2",
+        "preco": "71.70",
+        "precoDesconto": "47.90",
+        "porcentagem": "33.19"
+      },
+      {
+        "descricao": "Açaí tradicional 500ml + granola + paçoca + banana",
+        "preco": "23.90",
+        "precoDesconto": "16.90",
+        "porcentagem": "29.29"
+      },
+      {
+        "descricao": "Açaí tradicional 500ml 30%off",
+        "preco": "23.90",
+        "precoDesconto": "16.90",
+        "porcentagem": "29.29"
+      }
+    ]
+  },
+  {
+    "nome": "Açaí Concept - Ponta Verde",
+    "link": "https://www.ifood.com.br/delivery/maceio-al/acai-concept---ponta-verde-ponta-verde-/f97363c4-9c9f-4c59-a725-8ae5b4bf7cab",
+    "rating": "4.3",
+    "img": "https://static-images.ifood.com.br/image/upload/f_auto,t_thumbnail/logosgde/201907311346_f97363c4-9c9f-4c59-a725-8ae5b4bf7cab.png",
+    "produtos": [
+      {
+        "descricao": "Açaí tradicional 500ml+granola+banana",
+        "preco": "23.90",
+        "precoDesconto": "11.90",
+        "porcentagem": "50.21"
+      },
+      {
+        "descricao": "Açaí tradicional 500ml + granola + paçoca + banana",
+        "preco": "23.90",
+        "precoDesconto": "16.90",
+        "porcentagem": "29.29"
+      },
+      {
+        "descricao": "Açaí tradicional 500ml 30%off",
+        "preco": "23.90",
+        "precoDesconto": "16.90",
+        "porcentagem": "29.29"
+      },
+      {
+        "descricao": "Açaí tradicional 500ml + creme de paçoca 30%off",
+        "preco": "23.90",
+        "precoDesconto": "16.90",
+        "porcentagem": "29.29"
+      }
+    ]
+  },
+  {
+    "nome": "Açaí Concept - Jatiuca",
+    "link": "https://www.ifood.com.br/delivery/maceio-al/acai-concept---jatiuca-jatiuca/56f70260-cecf-4d05-b9af-15afbf687cbb",
+    "rating": "3.7",
+    "img": "https://static-images.ifood.com.br/image/upload/f_auto,t_thumbnail/logosgde/202004091632_56f70260-cecf-4d05-b9af-15afbf687cbb.png",
+    "produtos": [
+      {
+        "descricao": "Combo - leve 3 pague 2",
+        "preco": "71.70",
+        "precoDesconto": "47.90",
+        "porcentagem": "33.19"
+      },
+      {
+        "descricao": "Açaí green orgânico 500ml 30%off",
+        "preco": "25.90",
+        "precoDesconto": "18.90",
+        "porcentagem": "27.03"
+      },
+      {
+        "descricao": "Combo serve 2 - copo 500ml açaí tradicional com 50% desconto no segundo copo igual",
+        "preco": "47.80",
+        "precoDesconto": "35.90",
+        "porcentagem": "24.90"
+      },
+      {
+        "descricao": "Combo família - 2 litrões de açaí com super desconto",
+        "preco": "91.80",
+        "precoDesconto": "69.90",
+        "porcentagem": "23.86"
+      }
+    ]
+  },
+  {
+    "nome": "Dna Jatiuca",
+    "link": "https://www.ifood.com.br/delivery/maceio-al/dna-jatiuca-jatiuca/bacb3bda-1879-4914-802a-5571c9cedc62",
+    "rating": "4.4",
+    "img": "https://static-images.ifood.com.br/image/upload/f_auto,t_thumbnail/logosgde/bacb3bda-1879-4914-802a-5571c9cedc62/201911261801_XL0e_i.png",
+    "produtos": [
+      {
+        "descricao": "Sopa cremosa de milho verde",
+        "preco": "19.90",
+        "precoDesconto": "16.00",
+        "porcentagem": "19.60"
+      },
+      {
+        "descricao": "Sopa de feijão",
+        "preco": "19.90",
+        "precoDesconto": "16.00",
+        "porcentagem": "19.60"
+      },
+      {
+        "descricao": "Sopa digestiva",
+        "preco": "19.90",
+        "precoDesconto": "16.00",
+        "porcentagem": "19.60"
+      },
+      {
+        "descricao": "Sopa termogênica",
+        "preco": "19.90",
+        "precoDesconto": "16.00",
+        "porcentagem": "19.60"
+      }
+    ]
+  },
+  {
+    "nome": "China in Box - Ponta Verde",
+    "link": "https://www.ifood.com.br/delivery/maceio-al/china-in-box---ponta-verde-ponta-verde/04757ebb-ebce-4842-98fc-ab8a9f0b4c62",
+    "rating": "4.1",
+    "img": "https://static-images.ifood.com.br/image/upload/f_auto,t_thumbnail/logosgde/04757ebb-ebce-4842-98fc-ab8a9f0b4c62/202001031335_C6C4_i.png",
+    "produtos": []
+  }
+]
